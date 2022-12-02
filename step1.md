@@ -20,7 +20,7 @@ Now, select the cheapest plan **that does not say "IPV6 ONLY"**, this may vary b
 
 Finally, enable/disable Auto Backups if you wish.
 
-As I mentioned above, I also highly recommend disabling IPV6 entirely at the bottom checkboxes, this will only create more confusion/issues and is not needed whatsoever:
+As I mentioned above, I also highly recommend disabling IPV6 entirely at the bottom checkboxes, this (in my opinion) will only create more confusion/issues and is not needed whatsoever:
 
 ![IPV6](ipv6.png)
 
