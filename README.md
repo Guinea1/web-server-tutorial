@@ -1,7 +1,7 @@
 # Debian 11 Simple Apache Web Server Tutorial
 ### Bobby D
 
-This is a simple tutorial on how to setup a simple Apache web server on Debian 11, it will walk you through:
+This is a simple tutorial on how to setup a simple Apache Web Server on Debian 11, it will walk you through:
 
 1. Getting a cloud server (**VPS**) with a public IP
 2. Accessing that server via **SSH**, and updating it
