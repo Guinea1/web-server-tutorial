@@ -9,7 +9,7 @@ This is a simple tutorial on how to setup a simple Apache web server on Debian 1
 4. Installing Apache and ensuring the service is started/enabled
 5. Editing/Changing the default hosted **HTML** page
 
-This tutorial **WILL NOT** cover aspects such as setting up a domain name, SSL (HTTPS), or something more advanced like installing Wordpress.
+This tutorial **will not** cover aspects such as setting up a domain name, SSL (HTTPS), or something more advanced like installing Wordpress.
 
 The tutorial is mostly target towards those who only want to host a static website (though, admittedly there are simpler free ways of doing this), those who know how to edit/create HTML to make a webpage, as well as those who may just want to learn more about running a server on Linux.
 
