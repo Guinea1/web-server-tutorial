@@ -19,6 +19,6 @@ Now, the first thing that you should do (in my opinion) for best practice on any
 1. ```sudo apt-get update``` (updates the available package information, **does not download any packages**)
 2. ```sudo apt-get upgrade``` (updates/downloads the new packages)
 
-Next, we will make sure that the web server port (80) will be publicly accessible from the UFW/iptables firewall.
+Next, we will make sure that the web server/HTTP port (80) will be publicly accessible from the UFW/iptables firewall.
 
 [[Next Step]](step3.md)
