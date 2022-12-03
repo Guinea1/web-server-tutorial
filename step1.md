@@ -2,7 +2,7 @@
 
 The first step is of course actually getting a cloud server that runs Debian 11 and has a public IP, think of a cloud server as essentially a virtual computer (in this case running Debian 11 Linux) that you can remotely access from anywhere in the world.
 
-There are **TONS** (and I really do mean **TONS**) of cloud providers out there, however my absolute favorite and one I will be using for this tutorial is [**Vultr**](https://www.vultr.com/), as from what I have seen over the years, they consistently have the best price/performance, have an extremely simple UI, and a location that is very close to me.
+There are **TONS** (and I really do mean **TONS**) of cloud providers out there, however my absolute favorite and one I will be using for this tutorial is [**Vultr**](https://www.vultr.com/), as from what I have found over time, they consistently seem to have the best price/performance, have an extremely simple UI, and a location that is very close to me.
 
 **Once you have an account and are on the products page, click on the blue plus button near the top right:**
 
