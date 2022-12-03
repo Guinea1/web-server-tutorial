@@ -1,4 +1,4 @@
-# Step 5: Installing Apache and ensuring the service is started/enabled
+# Step 5: Editing/Changing the default hosted HTML page
 
 Finally, it's time to actually change what we are hosting, this is actually a relatively simple process, by default all hosted files **should** be located in ```/var/www/html```, however this may differ on other Linux Distros.
 
