@@ -2,7 +2,7 @@
 
 Installing Apache (the actual web server) is actually quite simple, assuming you are still logged into your server via SSH, and have made sure to update everything, you should really only have to run:
 
-```sudo apt-get install apache2``` (It may ask you if you want to continue, **answer "Y"**
+```sudo apt-get install apache2``` (It may ask you if you want to continue, **answer "Y"**)
 
 As I said before, this one command **should** install the Apache program and service, as well as start and enable the service so that it starts on startup, keep in mind that the service is not the same as the Apache program, it simply keeps it running in the background.
 
