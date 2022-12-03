@@ -12,7 +12,7 @@ Then you will be on a page to create the server, be sure to select **Cloud Compu
 
 Next, choose the location that is the closest to you.
 
-And then make sure **Debian 11** is selected as the Operating System/"Server Image":
+And then make sure **Debian 11** is selected as the Operating System/Distro/"Server Image":
 
 ![os](os.png)
 
